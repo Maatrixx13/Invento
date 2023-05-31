@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "135959958337",
+    "project_id": "invento-2ba0f",
+    "storage_bucket": "invento-2ba0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135959958337:android:11f81cdd686b8dbb9f87c0",
+        "android_client_info": {
+          "package_name": "com.rafial.invento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135959958337-80f1ed3m9r4nq0g3d2d6h0pkqi8grnea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rafial.invento",
+            "certificate_hash": "5d0619e7e2c495fe347bc39a85f086daeb165ca6"
+          }
+        },
+        {
+          "client_id": "135959958337-gijs1ntt6ac2ptfjquuuftjq2tfqe6ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSpSFz3ihnBgmoNhHi59kaMesJstjfNDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135959958337-gijs1ntt6ac2ptfjquuuftjq2tfqe6ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
